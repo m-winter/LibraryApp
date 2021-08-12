@@ -1,5 +1,5 @@
 # LibraryApp
-Small app simulating the operarions of a library. AThe application uses JDBC and STMP.
+Small app simulating the operarions of a library. The application uses JDBC and STMP.
 
 The application enables the automatic creation of databases for users and collections of books in MySQL.
 To connect to the base and take advantage of its operation, you need to fill the following Strings:
